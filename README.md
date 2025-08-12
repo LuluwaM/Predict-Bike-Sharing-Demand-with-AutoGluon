@@ -6,6 +6,10 @@ This project is part of the Machine Learning Fundamentals Nanodegree program fro
 
 The project uses the **AutoGluon** library (an open-source AutoML toolkit developed by Amazon that automates machine learning tasks for tabular, text, and image data) to train and optimize models for predicting bike sharing demand, based on the Kaggle Bike Sharing Demand competition dataset. This helps businesses like Uber and Lyft anticipate demand spikes and improve customer experience.
 
+What is AutoGluon?
+AutoGluon is an open-source framework developed by Amazon that enables easy and fast training of machine learning models. It automatically tries multiple algorithms and selects the best model.
+
+
 ## 🎯 Objectives
 - Train and optimize multiple ML models using AutoGluon.  
 - Produce a detailed report summarizing the project and results.
